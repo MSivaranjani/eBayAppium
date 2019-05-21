@@ -1,0 +1,18 @@
+2019-05-21 11:05:823 INFO  LoggerHelper:24 - User should be in the landing screen
+2019-05-21 11:05:833 INFO  LoggerHelper:30 - Tap icon
+2019-05-21 11:05:423 INFO  LoggerHelper:41 - tap sign in
+2019-05-21 11:05:40 INFO  LoggerHelper:52 - enter credentials
+2019-05-21 11:05:673 INFO  LoggerHelper:70 - Tap Signin
+2019-05-21 11:05:831 INFO  LoggerHelper:35 - User should be on the login screen-given started
+2019-05-21 11:05:834 INFO  LoggerHelper:37 - User should be on the login screen-given ended
+2019-05-21 11:05:835 INFO  LoggerHelper:43 - User should be on the login screen-given started
+2019-05-21 11:05:275 INFO  LoggerHelper:46 - User should be on the login screen-given ended
+2019-05-21 11:05:277 INFO  LoggerHelper:52 - Enter value in the search box  started
+2019-05-21 11:05:223 INFO  LoggerHelper:54 - Enter value in the search box  Ended
+2019-05-21 11:05:274 INFO  LoggerHelper:75 - Echeck any message over wishlist
+2019-05-21 11:05:322 INFO  LoggerHelper:85 - Check shop by brand displayed
+2019-05-21 11:05:275 INFO  LoggerHelper:91 - Selects LG brand
+2019-05-21 11:05:175 INFO  LoggerHelper:102 - swips down till the end of the screen
+2019-05-21 11:05:435 INFO  LoggerHelper:117 - swips up to find the product
+2019-05-21 11:05:924 INFO  LoggerHelper:145 - comparing the value and name of the product in search screen and checkout screen
+2019-05-21 11:05:927 INFO  LoggerHelper:169 - compared the value and name of the product in search screen and checkout screen successfully
